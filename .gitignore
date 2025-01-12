@@ -1,0 +1,40 @@
+
+# Otros archivos temporales o de construcción
+/bin/
+*.log
+*.tmp
+
+# Logs
+logs/
+*.log
+*.out
+*.err
+
+# Entorno de desarrollo
+.env
+*.env
+*.properties
+
+# Archivos de compilación
+*.class
+*.jar
+*.war
+
+# Herramientas de build
+/.settings/
+/target/
+/build/
+
+# Dependencias
+/lib/
+src/resources/sql/
+H2_pharmacy_database/
+docker-compose.yml
+
+# Otros
+*.bak
+*.tmp
+*.old
+*.backup
+TODOs.txt
+/JavaSwingAppEjemploJarDocker/
